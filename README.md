@@ -19,8 +19,8 @@ This system predicts ratings for unwatched Korean dramas, recommends personalize
 **Environment:** Jupyter Notebook
 
 ## 📊 Dataset
-
-- **1,400+ Korean dramas** scraped from MyDramaList, IMDb, and KAGGLE
+  **Initial Dataset Link**: https://www.kaggle.com/datasets/chanoncharuchinda/korean-drama-2015-23-actor-and-reviewmydramalist/data?select=korean_drama.csv
+- **1,400+ Korean dramas** scraped from MyDramaList, TVMaze, Kaggle
 - **9,700+ user ratings**
 - **30+ genres** (Romance, Action, Comedy, Thriller, etc.)
 
